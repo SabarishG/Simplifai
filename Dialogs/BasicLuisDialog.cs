@@ -24,7 +24,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Web;
-using Simplifai.Models;
+//using Simplifai.Models;
 
 namespace Microsoft.Bot.Sample.LuisBot
 {
